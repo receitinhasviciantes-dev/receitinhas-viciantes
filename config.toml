@@ -1,0 +1,9 @@
+baseURL = "https://receitinhas-viciantes.netlify.app/"
+languageCode = "pt-br"
+title = "Receitinhas Viciantes"
+theme = "ananke"
+
+[params]
+  description = "Receitas rápidas, econômicas e deliciosas para o dia a dia."
+  author = "Receitinhas Viciantes"
+  show_reading_time = true
